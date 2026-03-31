@@ -1,5 +1,6 @@
 
-<img width="1408" height="768" alt="emreoztemizportfolyo" src="https://github.com/user-attachments/assets/331492e8-ac81-40af-9dfb-6677832687d3" />
+<img width="640" height="640" alt="emreoztemizportfolyo" src="https://github.com/user-attachments/assets/fbb27f01-c9d7-4a46-bcd8-cf6663d34c62" />
+
 
 # Emre Öztemiz | AI & Machine Learning Portfolio
 
