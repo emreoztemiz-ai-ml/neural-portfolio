@@ -1,3 +1,6 @@
+
+<img width="1408" height="768" alt="emreoztemizportfolyo" src="https://github.com/user-attachments/assets/331492e8-ac81-40af-9dfb-6677832687d3" />
+
 # Emre Öztemiz | AI & Machine Learning Portfolio
 
 Yapay zeka ve makine öğrenmesi dünyasına sadece kod yazarak değil, bu teknolojilerin estetiğini ve çalışma mantığını görselleştirerek bakmayı seviyorum. Bu proje, hem teknik becerilerimi sergilediğim bir platform hem de ikinci sınıftaki gelişimimi sunduğum dijital bir deneyim alanıdır.
